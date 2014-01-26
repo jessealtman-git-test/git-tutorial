@@ -1,0 +1,19 @@
+{
+    "username": "jesse@reportforce.com", 
+    "environment": "developer", 
+    "project_name": "Git-Tutorial", 
+    "workspace": "/Users/jessealtman/Documents/Git-Tutorial", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "6O9LI79MGVNDE6HMTF0JXKXQ4NJ43IWF", 
+    "metadata_container": "1dci00000006PxiAAE", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
