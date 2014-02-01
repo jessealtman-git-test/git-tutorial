@@ -1,1 +1,28 @@
-{}
+{
+    "Account.object": {
+        "createdById": "005i0000002fXtLAAU", 
+        "createdByName": "Jesse Altman", 
+        "createdDate": "2014-02-01 14:40:55.000554", 
+        "fileName": "unpackaged/objects/Account.object", 
+        "fullName": null, 
+        "id": "000000000000000AAA", 
+        "lastModifiedById": "005i0000002fXtLAAU", 
+        "lastModifiedByName": "Jesse Altman", 
+        "lastModifiedDate": "2014-02-01 14:40:55.000554", 
+        "mmState": "clean", 
+        "type": "CustomObject"
+    }, 
+    "Account.workflow": {
+        "createdById": "005i0000002fXtLAAU", 
+        "createdByName": "Jesse Altman", 
+        "createdDate": "2014-02-01 14:40:55.000656", 
+        "fileName": "unpackaged/workflows/Account.workflow", 
+        "fullName": null, 
+        "id": "000000000000000AAA", 
+        "lastModifiedById": "005i0000002fXtLAAU", 
+        "lastModifiedByName": "Jesse Altman", 
+        "lastModifiedDate": "2014-02-01 14:40:55.000656", 
+        "mmState": "clean", 
+        "type": "Workflow"
+    }
+}

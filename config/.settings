@@ -1,12 +1,12 @@
 {
-    "username": "jesse@reportforce.com", 
-    "environment": "developer", 
+    "username": "jesse@gittutorial.com", 
     "project_name": "Git-Tutorial", 
-    "workspace": "/Users/jessealtman/Documents/Git-Tutorial", 
     "org_url": "", 
     "namespace": "", 
-    "id": "6O9LI79MGVNDE6HMTF0JXKXQ4NJ43IWF", 
     "metadata_container": "1dci00000006PxiAAE", 
+    "environment": "developer", 
+    "workspace": "/Users/jessealtman/Documents/Git-Tutorial", 
+    "id": "6O9LI79MGVNDE6HMTF0JXKXQ4NJ43IWF", 
     "subscription": [
         "ApexClass", 
         "ApexComponent", 
@@ -14,6 +14,7 @@
         "ApexTrigger", 
         "CustomObject", 
         "Profile", 
-        "StaticResource"
+        "StaticResource", 
+        "Workflow"
     ]
 }

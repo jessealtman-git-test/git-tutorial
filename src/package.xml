@@ -17,8 +17,16 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>Workflow</name>
     </types>
     <version>29.0</version>
 </Package>
